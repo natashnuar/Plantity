@@ -1,6 +1,7 @@
 # plant_apps
+Final Year project:
 
-A new Flutter project.
+This is an Android application to identify plants from images and watering reminders for designated plants.
 
 ## Getting Started
 
